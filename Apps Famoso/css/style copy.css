@@ -1,0 +1,49 @@
+/* @import url('https://fonts.googleapis.com/css?family=Roboto&display=swap');
+
+:root {
+	--light-color-a: #128c7e;
+	--light-color-b: #ece5dd;
+	--light-color: #075e54;
+	--success-color: #5cb85c;
+	--error-color: #d9534f;
+}
+body {
+	font-family: 'Roboto', sans-serif;
+	font-size: 36px;
+	background: var(--light-color);
+	margin: 25px;
+}
+.inicial-container {
+	max-width: 2500px;
+	color: #fff;
+}
+.sitenome-container {
+    text-align: center;
+	padding: 17px;
+	background: var(--light-color-a);
+	border-top-left-radius: 3px;
+	border-top-right-radius: 3px;
+}
+.site-main {
+    padding: 100px;
+    text-align: center;
+	background: var(--light-color-a);
+}
+.site-main .form-control {
+    text-align: center;
+    font-size: 26px;
+    margin-bottom: 10px;
+}
+.site-main select {
+	font-size: 21px;
+	padding: 5px;
+	height: 50px;
+    width: 100%;
+    background: var(--light-color-b);
+    text-align: center;
+}
+.site-main .btn {
+    margin-top: 10px;
+    width: 15%;
+    height: 30px;
+} */

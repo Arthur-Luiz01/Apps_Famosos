@@ -1,0 +1,9 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto&display=swap');
+
+:root {
+	--light-color-a: #128c7e;
+	--light-color-b: #ece5dd;
+	--light-color: #075e54;
+	--success-color: #5cb85c;
+	--error-color: #d9534f;
+}
